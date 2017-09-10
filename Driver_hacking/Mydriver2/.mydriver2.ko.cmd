@@ -1,0 +1,1 @@
+cmd_/home/jure/Documents/LowLvl_stuff/Mydriver2/mydriver2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jure/Documents/LowLvl_stuff/Mydriver2/mydriver2.ko /home/jure/Documents/LowLvl_stuff/Mydriver2/mydriver2.o /home/jure/Documents/LowLvl_stuff/Mydriver2/mydriver2.mod.o
